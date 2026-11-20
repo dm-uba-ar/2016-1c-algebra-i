@@ -1,9 +1,5 @@
 # Álgebra I — Primer cuatrimestre de 2016
 
-## Equipo docente
-
-- **Clases teóricas:** Jorge Guccione, Jonathan Barmak, Guillermo Cortiñas
-
 ## Prácticas
 
 - [Práctica 1](1-1ro2016.pdf)
@@ -18,13 +14,6 @@
 ## Apuntes y notas
 
 - [Notas de Ariel Pacetti y Matías Graña](notas-alg1.pdf)
-
-## Bibliografía
-
-- Notas de las clases teóricas de Teresa Krick: Capítulo 1 , Capítulo 2 , Capítulo 3 , Capítulo 4 , Capítulo 5 .
-- Notas de Ariel Pacetti y Matías Graña
-- Conjuntos, relaciones y funciones , por Susana Puddu
-- Números naturales, principio de inducción , por Susana Puddu
 
 ## Página original
 
